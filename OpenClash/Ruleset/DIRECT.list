@@ -586,5 +586,6 @@ DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 
-# other
+# speedtest.net
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN,speedtest2.niutk.com
