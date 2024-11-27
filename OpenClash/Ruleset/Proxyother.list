@@ -31,7 +31,6 @@ IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 
 # other
-DOMAIN,speedtest2.niutk.com
 #DOMAIN,d1q6f0aelx0por.cloudfront.net
 #DOMAIN,d2wy8f7a9ursnm.cloudfront.net
 #DOMAIN,d36jcksde1wxzq.cloudfront.net
