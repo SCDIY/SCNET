@@ -2,6 +2,7 @@
 # 数量：N条
 
 # other
+DOMAIN-SUFFIX,api.ttt.sh
 DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-SUFFIX,ipleak.net
 #DOMAIN,d1q6f0aelx0por.cloudfront.net
