@@ -11,6 +11,10 @@ IP-CIDR,114.114.115.115/32,no-resolve
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
 
+# other
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,time.windows.com
+
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -572,5 +576,3 @@ DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 
-# speedtest.net
-DOMAIN-SUFFIX,speedtest.net
