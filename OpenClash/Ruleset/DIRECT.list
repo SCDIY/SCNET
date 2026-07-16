@@ -1,7 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 国内特殊IP
-IP-CIDR,20.253.1.0/24,no-resolve
+IP-CIDR,20.253.0.0/16,no-resolve
 # 国内DNS
 IP-CIDR,210.22.70.3/32,no-resolve
 IP-CIDR,210.22.70.225/32,no-resolve
