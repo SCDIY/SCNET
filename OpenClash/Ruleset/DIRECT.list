@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,doh.pub
 
 # other
 DOMAIN-SUFFIX,speed.do
+DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,time.windows.com
 
 # 360
