@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
 
 # other
-DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speed.do
 DOMAIN-SUFFIX,time.windows.com
 
 # 360
